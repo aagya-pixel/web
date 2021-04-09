@@ -1,0 +1,36 @@
+.main{
+	background-color: blue;
+	text-align: left;
+	margin:10px
+	padding:10px;
+}
+.submain{
+	background-color:green;
+	text-align:right;
+	margin:10px;
+	padding:10px;
+}
+.fm{
+	background-color:yellow;
+	text-align:left;
+}
+.sm{
+	background-color:yellow;
+	text-align:left;
+}
+.tm{
+	background-color: yellow;
+	text-align: center;
+}
+.ffm{
+	background-color: blue;
+	text-align: left;
+}
+.trdko{
+     background-color: green;
+     text-align: right;
+}
+.footer{
+	background-color: green;
+	text-align: center;
+}
