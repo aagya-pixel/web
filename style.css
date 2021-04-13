@@ -1,11 +1,44 @@
-.main{
-   background-color: green;
-   text-align: center;
+
+.header{
+	float:left;
+	background-color:blue;
+	margin:0;
+	padding-right: 2px;
+	padding-top: 2px;
+	padding-bottom:2px;
+	padding-left: 2px;
 }
-.maintext{
-    background-color: red;
+.head{
+	float:right;
+	background-color:green;
+	margin: 0;
 }
-.foot{
+.h1{
+	float:left;
+	background-color: red;
+	padding: 1px;
+}
+.h2{
+	float: center;
+	background-color: yellow;
+}
+.h3{
+	float:center;
+    background-color: blue;
+}
+.h4{
+	float:right;
 	background-color: green;
-	text-align: center;
 }
+.body1{
+    float:left;
+    background-color: blue; 
+}
+.body2{
+	float:right;
+	background-color: green;
+}
+.footer{
+	text-align:left;
+}
+
